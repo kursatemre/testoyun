@@ -1,21 +1,5 @@
-# TBTKO
-Knight Online Pvp Server
 
 
-Oluşturma Tarihi: 05.09.2016
-
-
-Proje Amacı:
-
-Yıllardır bir çok insanın hayatından aylar ve yıllar çalan oyunu sizler için düzgün bir şekilde geliştirmeye karar verdik. Tahribat.com Müritleri ile birlikte proje gelişimine başladık.
-
-İlk Sürüm Özellikleri:
-
-Şuanki Sürüm içerisinde usko tarzı EXP. Usko Drop. Usko Upgrade Tabloları Yer almaktadır.
-
-Genie, Balık tutma, BDW Chaos, Peri, Krowaz, 83 Skilleri, Pet Çalışmaktadır.
-
-NPClerden toplu alım özellikleri ve görevler çalışmaktadır.
 
 
 
@@ -39,36 +23,8 @@ Kurulum:
 4: ODBC 32 Bit içerisine 
 
 
-data
-
-Kdata
-
-KN_Data
-
-kn_online
-
-Knight
-
-Knight_Account
-
-Knight_Data
-
-ko_game
-
-ko_main
-
-Sknight
 
 
-İsimlerinde database'inizle iletişimde olan sistem dns i oluşturunuz.
-
-
-5: Sırası İle Login Server - Ai Server - Game Serverı Çalıştırınız(Serverların Başlatılmasını Bekleyiniz)
-
-
-6: Client içerisinden Launcher ile giriş yapın. 
-
-https://yadi.sk/d/xuGISH8Vup8UB
 
 Not: Client'i ister bu adresten isterseniz başka bir adresten indirebilirsiniz. Fakat oyuna girmeden client patchi mutlaka yapınız.
 
